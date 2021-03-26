@@ -32,8 +32,9 @@ You can do the same thing with Windows-10-Dark-Master theme which is also in `~/
 
 If you prefer the blue tiles instead of grey just change the 2 background-color lines to `background-color: #0078d7;` instead. When you make the changes, save the file and restart cinnamon.
 
-
+### Grey tiles:
 ![Screenshot from 2021-03-26 12-55-56](https://user-images.githubusercontent.com/58893963/112635132-59713600-8e33-11eb-8951-2347f39ed450.png)
 
+### Blue tiles:
 ![Screenshot from 2021-03-26 12-56-30](https://user-images.githubusercontent.com/58893963/112635158-5fffad80-8e33-11eb-891e-9dd93decdcbe.png)
 
