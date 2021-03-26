@@ -38,3 +38,4 @@ If you prefer the blue tiles instead of grey just change the 2 background-color 
 ### Blue tiles:
 ![Screenshot from 2021-03-26 12-56-30](https://user-images.githubusercontent.com/58893963/112635158-5fffad80-8e33-11eb-891e-9dd93decdcbe.png)
 
+Thanks to @cvdmint for the idea.
